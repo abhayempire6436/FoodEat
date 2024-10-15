@@ -18,7 +18,7 @@ const Hero = () => {
           </div>
         </div>
         <div className="w-full flex justify-center items-center">
-            <img className="sm:w-[400px] w-[300px] " src={FoodImg} alt="food" />
+            <img className="sm:w-[400px] w-[300px] animate-spin-slow" src={FoodImg} alt="food" />
         </div>
       </div>
     </div>
